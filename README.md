@@ -41,14 +41,18 @@ excel_uploader/
 │── README.md
 
 Setup Instructions
+
 ✔ 1. Clone Repository
+
 git clone https://github.com/guthayaswanth0123/Python-Files_Uploader.git
 cd Python-Files_Uploader/excel_uploader
 
 ✔ 2. Install Dependencies
+
 pip install pandas mysql-connector-python
 
 ✔ 3. Configure MySQL Connection
+
 Update these values inside app.py:
 
 host = "localhost"
@@ -57,10 +61,14 @@ password = "YOUR_PASSWORD"
 database = "YOUR_DATABASE"
 
 ✔ 4. Run Backend Script
+
 python app.py
+
+
+Your HTML upload page will handle the file selection.<img width="1919" height="1199" alt="Screenshot 2025-12-11 114610" src="https://github.com/user-attachments/assets/9d0b873b-125e-46fd-b938-526f5a2b511c" />
+
 
 ✍️ Author
 Gutha Yaswanth
 Developer • Data Enthusiast • Automation Builder
 -- "Automation is not just about saving time — it's about unlocking human potential for bigger ideas."
-Your HTML upload page will handle the file selection.<img width="1919" height="1199" alt="Screenshot 2025-12-11 114610" src="https://github.com/user-attachments/assets/9d0b873b-125e-46fd-b938-526f5a2b511c" />
