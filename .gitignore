@@ -1,0 +1,9 @@
+# Ignore virtual environment
+excel_uploader/venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
