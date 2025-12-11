@@ -31,7 +31,6 @@ It eliminates the need for manual data entry in MySQL Workbench and ensures **sp
 ---
 
 ## 📂 Project Structure
-
 excel_uploader/
 │── app.py # Backend script to read and insert Excel data
 │── templates/
